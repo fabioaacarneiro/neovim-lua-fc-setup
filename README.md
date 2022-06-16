@@ -26,6 +26,22 @@
 </p><br>
 
 <p align="center">
+  <strong>Problemas com o coc-nvim</strong>: Pode ser que o coc-nvim acuse um erro do tipo, faltando um arquivo.js, como eu costo de usar o coc ao invés de outros gerenciadores de servidor de linguagens, por se simples é claro, eu priorizei usar o <a href="https://github.com/junegunn/vim-plug">Vim-Plug</a> Por ser o gerenciador de plugins que me permitiu usar o coc-nvim tranquilamente, e que eu pude com facildade resolver o problema cida. Uma vez que usa o vim-plug e executa o comando para instalar os plugins assim desejados, ele irá criar uma pasta chamada "plugged" dentro da pasta "nvim", para corrigir o problema, obviamente tendo as dependências anteriormentes citadas, devidamente instaladas no seu computador, acesse o diretório:
+
+~/.config/nvim/plugged/coc.nvim
+  
+  E execute o comando:
+  
+  npm install
+  
+  E quando terminado, execute:
+  
+  npm run build
+  
+  Deste modo ele vai configurar devidamente o coc-nvim e vai estar funcionando.
+</p><br>
+
+<p align="center">
   Está configuração é de longe completa, apenas estou compartilhando uma configuração que possa facilitar seu uso e aprendizado se ainda está lidando com a transição de Vimscript para Lua, algumas coisa voccê não vai conseguir fazer em lua, precisa então ainda manter contigo seu conhecimento sobre Vimscript que pode muito bem te ajudar em vários momentos, procure sempre implementar algo visando funcionamento, depois você pode usar o :help do Neovim para descobrir como e se é possível transcrever suas lógicas e algorítimos de Vimscript para Lua, muitas coisas modernas feitas para esta realidade de "init.lua" simplesmente não funcionam conforme eu gostaria, mas isso é inteiramente uma questão pessoal, ficando a cargo de cada um saber o que melhor lhe atende.
 </p><br>
 <p align="center">
