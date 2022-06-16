@@ -19,7 +19,6 @@
 </p>
 <p align="center">
   Algumas dependências dependem de outras para serem instaladas, como pr exemplo servidores de linguagem e suporte para alguns plugins escritos em python, neste caso vou colocar duas dependências que lembro que precisei no meu caso:
-<hr>
 <ul>
   <li>pynvim - pip install pynvim</li>
   <li>neovim node - npm i -g neovim</li>
