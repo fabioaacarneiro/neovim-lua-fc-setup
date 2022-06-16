@@ -29,7 +29,7 @@
   Está configuração é de longe completa, apenas estou compartilhando uma configuração que possa facilitar seu uso e aprendizado se ainda está lidando com a transição de Vimscript para Lua, algumas coisa voccê não vai conseguir fazer em lua, precisa então ainda manter contigo seu conhecimento sobre Vimscript que pode muito bem te ajudar em vários momentos, procure sempre implementar algo visando funcionamento, depois você pode usar o :help do Neovim para descobrir como e se é possível transcrever suas lógicas e algorítimos de Vimscript para Lua, muitas coisas modernas feitas para esta realidade de "init.lua" simplesmente não funcionam conforme eu gostaria, mas isso é inteiramente uma questão pessoal, ficando a cargo de cada um saber o que melhor lhe atende.
 </p><br>
 <p align="center">
-  Eu fiz quase 3 horas de gravação diretas mostrando como eu configurei o Neovim apenas usando a linguagem lua e algumas manobras para usar alguns comandos de Vimscript, caso queira conferir pode acessar clickando <a href="url">aqui</a>
+  Eu fiz quase 3 horas de gravação diretas mostrando como eu configurei o Neovim apenas usando a linguagem lua e algumas manobras para usar alguns comandos de Vimscript, caso queira conferir pode acessar clickando <a href="https://youtu.be/opxRKZn54kk">aqui</a>
 </p><br>
 <p align="center">
   Caso queria ver como ficou meu Neovim, pode conferir as imagens abaixo:
