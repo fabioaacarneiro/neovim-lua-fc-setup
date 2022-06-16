@@ -37,6 +37,6 @@
   <img src="https://github.com/bynmboy/neovim-lua-fc-setup/blob/master/imgs/img2.png" alt="Neovim fabio carneiro2">
   <img src="https://github.com/bynmboy/neovim-lua-fc-setup/blob/master/imgs/img3.png" alt="Neovim fabio carneiro3">
   <img src="https://github.com/bynmboy/neovim-lua-fc-setup/blob/master/imgs/img4.png" alt="Neovim fabio carneiro4">
-</P
+</p>
   
 <h2 align="center">Fabio Carneiro 2022</h2>
